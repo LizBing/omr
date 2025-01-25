@@ -173,6 +173,7 @@ port/MSG00001.bin
 x64/
 
 # Visual Studio Code
+.cache/
 /.vscode
 
 # CLion
